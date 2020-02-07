@@ -1,0 +1,21 @@
+Id,Name,Age,Salary,Presence,Level
+1,Doro,21,2000,26,C
+2,Nour,22,,25,B
+3,Van,23,1850,24.5,C
+4,Doosung,,,24,B
+5,Liam Chen,18,2280,25,B
+6,Matt,19,1500,26.5,A
+7,Tom,27,1500,27,A
+8,Harry,30,2200,28,
+9,Tokuda,24,1000,18,C
+10,Bobby,15,1000,18,C
+11,Xiaowen,16,2640,28,B
+12,Orod,25,1000,14,
+13,Vu Nguyen,21,,24.5,C
+14,Trieu Nguyen,20,2160,24,B
+15,Tuyet Nguyen,20,,24,B
+16,Kevin,38,1500,28,A
+17,Liam Cheng,,1450,20.5,
+18,Jason,,1500,18,A
+19,Akira,23,2100,27,C
+20,Tom,19,2520,27,B
